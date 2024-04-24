@@ -1,0 +1,13 @@
+{
+    "discordToken": "",
+    "discordUserID": "",
+    "emailPassword": "",
+    "emailSender": "",
+    "emailRecipient": "",
+    "WeatherAPI": "",
+    "rain": 45, 
+    "snow": 25,
+    "heat": 30,
+    "cold": 0,
+    "notifFrequency": 12
+}
